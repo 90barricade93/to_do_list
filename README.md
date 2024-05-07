@@ -24,16 +24,22 @@ In summary, the transition from todolist.py to todolist2.py marks significant pr
 ---
 ## 📜 Installation
 
-basically just `pip install -r requirements.txt` and you are good to go.
-
----
-## 📜 Usage
-
-To get started with this Python application, the setup process has been streamlined to ensure accessibility and ease of use. Users simply need to execute a straightforward command: pip install -r requirements.txt. This command is run in the terminal and facilitates the automatic installation of all necessary dependencies listed in the requirements.txt file.
+To get started with this Python application, the setup process has been streamlined to ensure accessibility and ease of use. Users simply need to execute a straightforward command: `pip install -r requirements.txt`. This command is run in the terminal and facilitates the automatic installation of all necessary dependencies listed in the requirements.txt file.
 
 This text file, often included in Python projects, itemizes all the libraries and specific versions that the application requires to function optimally. By using pip, Python's package installer, the stated dependencies are efficiently resolved and installed, which might include packages for handling database connections, computational operations, or enhancing the user interface.
 
 Once this installation process is complete, the application will have all the required environment set up, ensuring it runs smoothly on your machine. This method negates the need for manual installation of each dependency, thus reducing potential errors and compatibility issues, making it an extremely straightforward and user-friendly approach to preparing your system for the application.
+
+---
+## 📜 Usage
+
+To access different versions of the todo list application for various years, users simply need to run specific scripts using Python. These scripts are designated to pull up todo lists according to the year they were designed for:
+
+2023 Todo List: To view and interact with the todo list created for the year 2023, users should open a command line interface and enter the commands `py todolist.py`, `python todolist.py` or `python3 todolist.py`. This command executes the script for the todolist.py file, bringing up the basic and straightforward version of the todo list without a graphical user interface (GUI), focused purely on fundamental task management functionalities.
+
+2024 Todo List: For the more advanced 2024 todo list, users should run the command `py todolist2.py`, `python todolist2.py` or `python3 todolist2.py` in their terminal. This executes the todolist2.py script, which is equipped with enhancements such as a graphical user interface for better user interaction and a memory system to retain tasks even after the application is closed. This version offers a more enriched user experience with added features that leverage the latest in technology advancements.
+
+These commands are specific to each file and version, making it simple for users to switch between different years' lists according to their needs. Each script is tailored to not only fulfill the basic requirements of a todo list but also to align with user expectations and technological standards of its respective time.
 
 ---
 ## 📜 License
