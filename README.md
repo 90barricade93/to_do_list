@@ -4,23 +4,38 @@
 <div align="center">
 
 
-
-[![Latest Release](https://img.shields.io/badge/Latest%20Version-1.1.0-blue?logo=github)](https://github.com/90barricade93/to_do_list/commits/main)
+[![Latest Release](https://img.shields.io/badge/Latest%20Version-1.0.1-blue?logo=github)](https://github.com/90barricade93/to_do_list/commits/main)
 </div>
-
-## To do list ... Now and then.
-
 
 
 ### Readme 
+## To do list ... Now and then.
+
+In the evolving landscape of software dedicated to boosting productivity, two versions of a Python-based application, namely todolist.py and todolist2.py, stand out prominently. The initial version, todolist.py, was crafted in April 2023 and embodied a fundamental approach to task management. In stark contrast, todolist2.py, conceived more recently, has introduced significant advancements both in terms of user interaction and functionality.
+
+The original todolist.py is characterized by its simplicity and straightforwardness. As a primary iteration, it focuses merely on the essentials: creating a list where tasks can be added and marked off upon completion. This version lacks any form of visual interface and operates entirely through command-line inputs by the user.
+
+On the other hand, todolist2.py showcases a leap in development, stepping up both in usability and complexity. A standout feature is its graphical user interface (GUI), which provides a more user-friendly and intuitive way for users to interact with their tasks. This enhancement not only makes the application more accessible but also more appealing to a broader audience.
+
+Moreover, todolist2.py introduces a robust system for memory management, allowing the tasks to be saved and retrieved even after the application is closed. This capability ensures that users can maintain continuity in their task management without needing to re-enter information every time they open the application.
+
+In summary, the transition from todolist.py to todolist2.py marks significant progress in user experience and functionality. This evolution from a basic script to a more sophisticated application with a GUI and memory integration demonstrates a keen understanding of user needs and technological advancement. Both versions serve as valuable tools, yet todolist2.py undoubtedly enhances productivity with its improved features.
+
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed auctor, nisl eget ultricies tincidunt, *justo* nunc egestas augue, non tempor elit erat id nisl. Nullam sit amet laoreet elit. Vivamus* *mollis* nunc* non lectus vestibulum eleifend. Sed auctor, nisl eget ultricies tincidunt, justo nunc egestas augue, non tempor elit erat id nisl. Nullam sit amet laoreet elit. Vivamus mollis nunc non lectus vestibulum eleifend. Sed auctor, nisl eget ultricies tincidunt, justo nunc egestas augue, non tempor elit erat id nisl. Nullam sit amet laoreet elit. Vivamus mollis nunc non lectus vestibulum eleifend. 
+## 📜 Installation
 
+basically just `pip install -r requirements.txt` and you are good to go.
 
+---
+## 📜 Usage
 
+To get started with this Python application, the setup process has been streamlined to ensure accessibility and ease of use. Users simply need to execute a straightforward command: pip install -r requirements.txt. This command is run in the terminal and facilitates the automatic installation of all necessary dependencies listed in the requirements.txt file.
 
---------
+This text file, often included in Python projects, itemizes all the libraries and specific versions that the application requires to function optimally. By using pip, Python's package installer, the stated dependencies are efficiently resolved and installed, which might include packages for handling database connections, computational operations, or enhancing the user interface.
 
+Once this installation process is complete, the application will have all the required environment set up, ensuring it runs smoothly on your machine. This method negates the need for manual installation of each dependency, thus reducing potential errors and compatibility issues, making it an extremely straightforward and user-friendly approach to preparing your system for the application.
+
+---
 ## 📜 License
 
 Distributed under the MIT License. See [`LICENSE`](./LICENSE) for more information.
